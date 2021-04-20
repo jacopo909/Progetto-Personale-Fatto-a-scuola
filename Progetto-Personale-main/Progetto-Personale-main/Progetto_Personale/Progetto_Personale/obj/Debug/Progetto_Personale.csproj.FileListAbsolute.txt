@@ -1,0 +1,38 @@
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\bin\Debug\Progetto_Personale.exe.config
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\bin\Debug\Progetto_Personale.exe
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\bin\Debug\Progetto_Personale.pdb
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.csprojAssemblyReference.cache
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\App.g.cs
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale_MarkupCompile.cache
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale_MarkupCompile.lref
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.g.resources
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.Properties.Resources.resources
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.csproj.GenerateResource.cache
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.csproj.CoreCompileInputs.cache
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.exe
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.pdb
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Window1.g.cs
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Window1.baml
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Personale.g.cs
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Aziendale.g.cs
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Personale.baml
+C:\Users\Jacopo Montella\source\repos\Progetto_Personale\Progetto_Personale\obj\Debug\Aziendale.baml
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\bin\Debug\Progetto_Personale.exe.config
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\bin\Debug\Progetto_Personale.exe
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\bin\Debug\Progetto_Personale.pdb
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.csprojAssemblyReference.cache
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Personale.g.cs
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Window1.g.cs
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Aziendale.g.cs
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\App.g.cs
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale_MarkupCompile.cache
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale_MarkupCompile.lref
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Personale.baml
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Window1.baml
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Aziendale.baml
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.g.resources
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.Properties.Resources.resources
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.csproj.GenerateResource.cache
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.exe
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\Progetto_Personale.pdb
+C:\Users\studenti\Desktop\Progetto-Personale-main\Progetto-Personale-main\Progetto_Personale\Progetto_Personale\obj\Debug\mainwindow.g.cs
